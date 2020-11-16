@@ -1,3 +1,7 @@
+"""This B-O-W model accepts a URL and detects whether an acquisition was mentioned in any
+of the paragraphs.
+Author: Aviv Kadair
+"""
 from utility_functions import *
 import pandas as pd
 
@@ -9,6 +13,5 @@ reg_model = pickle.load(reg_model)
 vectorizer = open('paragraph_vectorizer.pkl','rb')
 vectorizer = pickle.load(vectorizer)
 pars = get_prediction(text, vectorizer, reg_model)
-print(len(pars))
 df = pd.DataFrame(pars)
 df.to_csv('pars_BOW.csv')
