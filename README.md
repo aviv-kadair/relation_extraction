@@ -20,8 +20,7 @@ Run the combined model via comb_model.py file. <br>
 The B-O-W model and BERT model are also available as a standalone models in seperate files. <br>
 
 # Example:
-<i>"The $100 million purchase helped Twitter improve mobile installation and engagement advertisements.Twitter confirmed the acquisition was made to assist in mobile marketing, 
-as TapCommerce assists companies with  target advertisements  based on prior user activity." </i><br>
 
-Output: ('Subsidiary', 0.9937208890914917) <br>
-<b> TapCommerce is a subsidiary company of Twitter </b>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/63307931/111141507-4f764a00-858c-11eb-9fe2-9815c372f1e7.png" width="600"><br><br>
+</p>
