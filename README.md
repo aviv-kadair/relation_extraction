@@ -17,7 +17,7 @@ Finally, it outputs every paragraph which passes this screening test and saves i
 # Instructions:
 Please make sure openNRE package is set and ready.<br>
 Run the combined model via comb_model.py file. <br>
-The B-O-W model and BERT model are also availle as a standalone models in seperate files. <br>
+The B-O-W model and BERT model are also available as a standalone models in seperate files. <br>
 
 # Example:
 <i>"The $100 million purchase helped Twitter improve mobile installation and engagement advertisements.Twitter confirmed the acquisition was made to assist in mobile marketing, 
